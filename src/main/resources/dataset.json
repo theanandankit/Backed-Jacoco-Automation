@@ -1,0 +1,51 @@
+[
+    {
+        "username" : "theanandankit",
+        "firstName" : "Ankit",
+        "lastName" : "Kumar",
+        "gender" : "M",
+        "password" : "1234"
+    },
+        {
+        "username" : "medhavi13",
+        "firstName" : "Medhavi",
+        "lastName" : "Srivastava",
+        "gender" : "F",
+        "password" : "1csdw234"
+    },
+        {
+        "username" : "Divyanshjordan",
+        "firstName" : "Divyansh",
+        "lastName" : "Kumar",
+        "gender" : "M",
+        "password" : "1234ffvj"
+    },
+        {
+        "username" : "shivam123",
+        "firstName" : "Shivam",
+        "lastName" : "Bhasker",
+        "gender" : "M",
+        "password" : "uhifv1234"
+    },
+        {
+        "username" : "theamit",
+        "firstName" : "Amit",
+        "lastName" : "Singh",
+        "gender" : "M",
+        "password" : "123cbjuv4"
+    },
+        {
+        "username" : "aayushaa",
+        "firstName" : "Ayush",
+        "lastName" : "Singh",
+        "gender" : "M",
+        "password" : "1234nvc"
+    },
+        {
+        "username" : "kamal29",
+        "firstName" : "kamal",
+        "lastName" : "garg",
+        "gender" : "M",
+        "password" : "1234"
+    }
+]
